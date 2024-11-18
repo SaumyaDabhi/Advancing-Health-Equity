@@ -1,21 +1,21 @@
 PatientID,Name,Age,Gender,DiagnosisDate,Medications,Allergies,LastAppointment
-1,Alice Smith,45,Female,8/22/2017,"Metformin, Insulin",None,10/15/2024
-2,Bob Johnson,55,Male,5/10/2016,"Gliclazide, Metformin",Penicillin,9/28/2024
-3,Carol Williams,60,Female,10/30/2012,"Insulin, ",Sulfa Drugs,11/2/2024
-4,David Brown,35,Male,2/14/2019,"Canagliflozin,  Insulin",None,10/5/2024
-5,Eve Davis,50,Female,7/15/2011,"Dapagliflozin, Metformin",Aspirin,11/12/2024
-6,Francis Lee,42,Male,9/18/2018,"Insulin, Pioglitazone",None,10/30/2024
-7,Gina Lopez,48,Female,12/5/2015,"Metformin, Sitagliptin",None,9/25/2024
-8,Harry White,58,Male,3/22/2014,"Gliclazide, Insulin",Penicillin,11/5/2024
-9,Isabel Garcia,63,Female,6/14/2010,"Insulin, Empagliflozin",Sulfa Drugs,10/10/2024
-10,Jackie Moore,47,Male,4/30/2017,"Metformin, Insulin",Aspirin,11/18/2024
-11,Kevin Clark,52,Male,11/20/2013,"Gliclazide,  Insulin",None,10/22/2024
-12,Linda Hall,55,Female,8/28/2016,"Insulin, Dapagliflozin",None,9/15/2024
-13,Michael Adams,40,Male,1/10/2020,"Metformin, Insulin",Penicillin,11/2/2024
-14,Nancy Reed,43,Female,7/12/2018,"Insulin, Canagliflozin",Aspirin,10/28/2024
-15,Oscar Martinez,49,Male,5/25/2015,"Gliclazide, Insulin",None,9/20/2024
-16,Pamela Ward,57,Female,9/8/2014,"Insulin, Metformin",Sulfa Drugs,11/12/2024
-17,Quentin Hill,39,Male,3/18/2019,"Metformin, Insulin",None,10/5/2024
-18,Rachel Bell,44,Female,10/15/2017,"Insulin, Gliclazide",Penicillin,9/30/2024
-19,Steven Gray,46,Male,6/20/2016,"Canagliflozin, Insulin",None,11/8/2024
-20,Tina Cooper,51,Female,8/10/2012,"Metformin, Insulin",Aspirin,10/25/2024
+1,Alice Smith,45,Female,8/22/2017,Metformin, Insulin,None,10/15/2024
+2,Bob Johnson,55,Male,5/10/2016,Gliclazide, Metformin,Penicillin,9/28/2024
+3,Carol Williams,60,Female,10/30/2012,Insulin,Sulfa Drugs,11/2/2024
+4,David Brown,35,Male,2/14/2019,Canagliflozin,  Insulin,None,10/5/2024
+5,Eve Davis,50,Female,7/15/2011,Dapagliflozin, Metformin,Aspirin,11/12/2024
+6,Francis Lee,42,Male,9/18/2018,Insulin, Pioglitazone,None,10/30/2024
+7,Gina Lopez,48,Female,12/5/2015,Metformin, Sitagliptin,None,9/25/2024
+8,Harry White,58,Male,3/22/2014,Gliclazide, Insulin,Penicillin,11/5/2024
+9,Isabel Garcia,63,Female,6/14/2010,Insulin, Empagliflozin,Sulfa Drugs,10/10/2024
+10,Jackie Moore,47,Male,4/30/2017,Metformin, Insulin,Aspirin,11/18/2024
+11,Kevin Clark,52,Male,11/20/2013,Gliclazide,  Insulin,None,10/22/2024
+12,Linda Hall,55,Female,8/28/2016,Insulin, Dapagliflozin,None,9/15/2024
+13,Michael Adams,40,Male,1/10/2020,Metformin, Insulin,Penicillin,11/2/2024
+14,Nancy Reed,43,Female,7/12/2018,Insulin, Canagliflozin,Aspirin,10/28/2024
+15,Oscar Martinez,49,Male,5/25/2015,Gliclazide, Insulin,None,9/20/2024
+16,Pamela Ward,57,Female,9/8/2014,Insulin, Metformin,Sulfa Drugs,11/12/2024
+17,Quentin Hill,39,Male,3/18/2019,Metformin, Insulin,None,10/5/2024
+18,Rachel Bell,44,Female,10/15/2017,Insulin, Gliclazide,Penicillin,9/30/2024
+19,Steven Gray,46,Male,6/20/2016,Canagliflozin, Insulin,None,11/8/2024
+20,Tina Cooper,51,Female,8/10/2012,Metformin, Insulin,Aspirin,10/25/2024
